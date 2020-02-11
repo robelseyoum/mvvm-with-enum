@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Cakes</string>
+    <string name="dummy_message">Dummy Message</string>
+    <string name="retry">Retry</string>
+    <string name="no_cake_available">No cake available</string>
+    <string name="refresh">Refresh</string>
+    <string name="ok">OK</string>
+</resources>
